@@ -15,7 +15,7 @@
 
   <p align="center">
     <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=williansantosnt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=316eimzjgonet2uaim7phr6zeqau&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false"
       alt="Now playing on Spotify"
     />
   </p>
